@@ -718,7 +718,7 @@ Further device support has been made with the assistance of users. Please consid
 - [bvandenbogaard](https://github.com/bvandenbogaard) for contributing support for Medion S10 SW robot vacuum.
 - [fotis3d](https://github.com/fotis3d) for assisting with support for Digoo HamB alarm.
 - [Igooris](https://github.com/Igooris) for contributing support for PZIOT E01 energy meter.
-- [shadowkora](https://github.com/shadowkora) for assisting with support for Moes Smart control panel mini IR/Bluetooth hub.
+- [shadowkora](https://github.com/shadowkora) for assisting with support for Moes Smart control panel mini IR/Bluetooth hub and contributing support for Siguro SGR-FN-U32xx fan.
 - [megarch2021](https://github.com/megarch2021) for contributing support for Orion SWS07HA indoor siren, CCT "modeless" lightbulbs (like v1 but reserve dp 2 for mode even though it is unused).
 - [markussiegert](https://github.com/markussiegery) for assisting with support for smoke detector.
 - [giacomitti](https://github.com/giacomitti) for contributing support for an unknown brand of energy meter.
@@ -877,3 +877,16 @@ Further device support has been made with the assistance of users. Please consid
 - [vanhoofseppe](https://github.com/vanhoofseppe) for contributing support for Vonroc heater.
 - [lechuorzech](https://github.com/lechuorzech) for assisting with support for Xtreme TC20 carbon monoxide detector.
 - [forksiceberg](https://github.com/forksiceberg) for contributing support for Greenmigo Alpha Q13 pro which was merged with Eeese Otto dehumidifier.
+- [latargere](https://github.com/latargere) for contributing support for Fancy LEDs 3 HDMI 2.1, which was merged with Lytmi sync light.
+- [thestumonkey](https://github.com/thestumonkey) for contributing support for Outon smart lamp.
+- [Katawengineering](https://github.com/Katawengineering) for contributing support for Demuda MPPT solar charge controller.
+- [buschtoens](https://github.com/buschtoens) for contributing support for CST WB V1 cover switch with backlight.
+- [leksts](https://github.com/leksts) for contributing support for Eurom WiFi thermostat
+- [XargsUK](https://github.com/XargsUK) for contributing support for Electriq EcoSilent 12HPW, which was merged with 14HPW.
+- [deanillfeld](https://github.com/deanillfeld) for contributing support for Arlec ATF4602BHA 12 speed tower fan.
+- [muhhh0](https://github.com/muhhh0) for contributing improvements for Goodcell EV charger.
+- [Peck07](https://github.com/Peck07) for contributing improvements to Moebot S lawnmower.
+- [vvv2542](https://github.com/vvv2542) for contributing support for Atorch S1TW thermostat switch.
+- [kliutchenia](https://github.com/kliutchenia) for contributing support for QS-WIFI-C02 dual curtain module.
+- [JanOstrowka](https://github.com/JanOstrowka) for contributing support for Tonepie T1 Pro Max cat litter box.
+- [KillDozerX2](https://github.com/KillDozerX2) for contributing support for Honeywell Air Touch P2 air purifier.

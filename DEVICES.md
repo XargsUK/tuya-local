@@ -181,6 +181,7 @@
 
 - Arlec PCTH01HA temperature/humidity smart switch
 - Atorch AT4PTW DIN rail thermostat
+- Atorch S1TW thermostat smart switch
 - Avatto ME81 thermostat
 - Avatto WS20R smart knob thermostat
 - Avatto WT100 thermostat
@@ -208,6 +209,7 @@
 - ETOP-HP thermostat (CH7100)
 - ETOP-HT thermostat
 - ETOP-HT-CH thermostat (branded as Ferco GN1)
+- Eurom WiFi thermostat
 - EZAIoT R9Lite thermostat
 - EZAIoT thermostat smartplug
 - Hysen HY02TP thermostat
@@ -251,7 +253,7 @@
 - Arida Venti 160 small through-wall heat-recovery ventilation fan
 - Arlec ceiling fan and light remote control kit (CFR225HA also works for Sulion Cadillac)
 - Arlec Grid Connect smart ceiling fan (with and without light)
-- Arlec 12 speed tower fan
+- Arlec 12 speed tower fan (2 variants: ATF1006HA and ATF4602BHA)
 - Arlec 19 speed wall fan
 - Arlec 6 speed floor fan
 - Aspen ASP 200 fan
@@ -303,6 +305,7 @@
 - Reiga ceiling fans with and without light
 - Royal Clima RCB 150 ventilation system
 - Scheeair Nova 100 ventilation fan
+- Siguro SGR-FN-U32xx tower fan
 - Skyfan DC fan
 - Skyfan DC fan with light
 - Smart Mist3 TX-1602MF (ZJ-1522A-WiFi)
@@ -324,6 +327,7 @@
 - Duux Bright air purifier
 - essentials portable air purifier
 - Himox H05 and H06 air purifiers
+- Honeywell Air Touch P2 Air Purifier
 - Hosome air purifier
 - iHunt 400m³/h air purifier
 - iHunt 50m³/h air purifier
@@ -524,6 +528,7 @@
 - Absina Wallbox EV charger (also sold as Dé Wallbox and supporting 16, 32, 40 and 50A single and 3-phase variants)
 - AFYEEV 16A portable EV charger
 - AFYEEV 32A 22kW portable EV charger
+- Demuda 4048/6048 MPPT solar charge controller
 - EcoPoint EV charger
 - EVSun EV charger
 - Feyree EV charger (several models)
@@ -699,6 +704,7 @@ of device.
 - Nedis Smart LED Strip
 - Newone WF39M dimmer smartplug
 - Nince RGB LED strip
+- Outon Smart Lamp
 - Peteme recessed lighting
 - PowerAsia RGB 6-inch recessed lighting
 - Richelieu tunable white LED puck light (166142030)
@@ -729,6 +735,7 @@ of device.
 - Benexmart blind motor
 - CCB-11 blind controller
 - CC curtain controller 1
+- CST WB V1 cover switch with backlight
 - Curry Smarter 6-Gen roller shutter switch
 - Dongguan garage door
 - Dongguan LY1678-2 curtain robot
@@ -751,6 +758,7 @@ of device.
 - Moes WS-USR-2C double curtain switch with backlight
 - Moes WS-Y-EUC curtain switch with backlight and timing control
 - QS-WIFI-C01(BK) curtain module
+- QS-WIFI-C02 dual curtain module
 - SHerko curtain motor
 - SmartCurtains A-series ACS-WT curtain motor (may work for other models)
 - Wistar roller blind controller
@@ -904,7 +912,8 @@ port and password.
 - Rojeco PTM-001 pet feeder (two versions)
 - Sobralik pet fountain
 - Tesla Smart pet feeder
-- Tonepie T1PRO automatic cat litter box
+- Tonepie T1PRO cat litter box
+- Tonepie T1 Pro MAX cat litter box
 - V330L pet feeder
 - Vevor 76L self-cleaning litter box
 - WellToBe Automatic Pet Feeder (WB S36D)
